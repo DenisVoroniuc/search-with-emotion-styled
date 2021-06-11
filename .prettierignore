@@ -1,0 +1,13 @@
+*
+
+!/*.js
+!/*.json
+!/.prettierrc
+
+!/src/
+!/src/*/
+!/src/**/*/
+!/src/*.ts
+!/src/*.tsx
+!/src/**/*.ts
+!/src/**/*.tsx
